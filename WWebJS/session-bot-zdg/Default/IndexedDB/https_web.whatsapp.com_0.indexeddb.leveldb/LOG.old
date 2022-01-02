@@ -1,0 +1,14 @@
+2022/01/02-18:58:59.549 694 Reusing MANIFEST C:\Users\Kleber Admin\whatsapp-api-beta\bot-zdg\WWebJS\session-bot-zdg\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/02-18:58:59.550 694 Recovering log #105
+2022/01/02-18:59:00.204 694 Reusing old log C:\Users\Kleber Admin\whatsapp-api-beta\bot-zdg\WWebJS\session-bot-zdg\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000105.log 
+2022/01/02-18:59:17.135 2c10 Level-0 table #114: started
+2022/01/02-18:59:17.206 2c10 Level-0 table #114: 1061184 bytes OK
+2022/01/02-18:59:17.208 2c10 Delete type=0 #105
+2022/01/02-18:59:17.228 2c10 Compacting 1@1 + 5@2 files
+2022/01/02-18:59:17.523 2c10 Generated table #115@1: 27954 keys, 2199586 bytes
+2022/01/02-18:59:17.608 2c10 Generated table #116@1: 1542 keys, 2137173 bytes
+2022/01/02-18:59:17.715 2c10 Generated table #117@1: 2732 keys, 2152392 bytes
+2022/01/02-18:59:17.994 2c10 Generated table #118@1: 24008 keys, 2254200 bytes
+2022/01/02-18:59:18.241 2c10 Generated table #119@1: 55911 keys, 1737045 bytes
+2022/01/02-18:59:18.241 2c10 Compacted 1@1 + 5@2 files => 10480396 bytes
+2022/01/02-18:59:18.242 2c10 compacted to: files[ 0 0 5 0 0 0 0 ]
